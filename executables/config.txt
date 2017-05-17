@@ -1,0 +1,5 @@
+brokerServerPortNum 7031
+brokerServerName localhost
+numberOfBrokers 6
+branchingFactor 2
+brokerCapacity 2
